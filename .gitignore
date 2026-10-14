@@ -1,0 +1,8 @@
+# 工作区辅助目录（AI 记忆/缓存），不纳入版本控制
+.workbuddy/
+
+# 临时文件
+*.tmp
+*~
+Thumbs.db
+.DS_Store
